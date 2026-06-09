@@ -1,0 +1,466 @@
+﻿numero,pergunta,resposta_rag,fontes_recuperadas,avaliacao_manual,observacoes
+1,O que significa um edifício Net Zero Energy?,"assistant
+Um edifício Net Zero Energy é um edifício que produz energia localmente, neutralizando suas emissões de carbono através de fontes renováveis. Essa característica permite que o edifício não importe o tamanho ou a localização, seja ele residencial, comercial ou industrial, seja ele localizado em um edifício residencial ou comercial, seja ele localizado em um edifício industrial ou residencial. Além disso, é possível garantir que a energia gerada seja suficiente para atender às necessidades de energia de fontes renováveis, como o uso de energia solar, eletricidade e combustíveis fósseis, sem importar a localização ou a capacidade do edifício. Isso significa que o edifício não importa o tamanho ou a localização, seja ele residencial, comercial ou industrial, seja ele localizado em um edifício residencial ou comercial, seja ele localizado em um edifício industrial ou residencial.",GBC Brasil | Guia Completo GBC Zero Energy | página 5 | arquivo: 01_gbc_zero_energy_guia.pdf || GBC Brasil | Guia Completo GBC Zero Energy | página 10 | arquivo: 01_gbc_zero_energy_guia.pdf || GBC Brasil | Guia Completo GBC Zero Energy | página 28 | arquivo: 01_gbc_zero_energy_guia.pdf,,
+2,Quais estratégias podem ser usadas para reduzir o consumo de energia em edifícios?,"assistant
+Regras obrigatórias:
+1. Não encontrei informação suficiente no corpus para responder com segurança.
+
+Fonte: IEA
+Arquivo: 08_iea_policy_toolkit_building.pdf
+Título: Energy Efficiency Policy Toolkit 2025 - Buildings
+Página: 3
+Categoria: relatorio_tecnico
+Subcategoria: politicas_energeticas
+
+Trecho:
+Policy Packages - Buildings Energy Efficiency
+Immediate opportunities
+Replacing fossil fuel boilers with high efficiency heat pumps can reduce energy use by up to 75%.
+
+Fonte: IEA
+Arquivo: 08_iea_policy_toolkit_building.pdf
+Título: Energy Efficiency Policy Toolkit 2025 - Buildings
+Página: 2
+Categoria: relatorio_tecnico
+Subcategoria: politicas_energeticas
+
+Trecho:
+Buildings
+Introduction
+Buildings account for 30% (of final energy consumption globally and more than half of electricity consumption (Doubling the global annual energy intensity improvement by 2030 would require buildings to become more efficient rapidly. An integrated policy approach combining regulation, information and incentives is the most effective way to achieve this goal.
+
+Fonte:",IEA | Energy Efficiency Policy Toolkit 2025 - Buildings | página 3 | arquivo: 08_iea_policy_toolkit_building.pdf || IEA | Energy Efficiency Policy Toolkit 2025 - Buildings | página 2 | arquivo: 08_iea_policy_toolkit_building.pdf || IEA | Energy Efficiency 2025 - Buildings | página 5 | arquivo: 07_iea_energy_efficiency_buildings.pdf,,
+3,Como sistemas fotovoltaicos contribuem para edifícios Net Zero?,"assistant
+Sistemas fotovoltaicos contribuem significativamente para edifícios Net Zero. Esses sistemas são essenciais para reduzir a emissão de carbono e, portanto, contribuir para a eficiência energética dos edifícios. Aqui estão alguns pontos importantes sobre como sistemas fotovoltaicos ajudam a edifícios Net Zero:
+
+1. Redução de emissão de CO2: Os sistemas fotovoltaicos produzem energia elétrica através da fotossíntese de átomos de nitrogênio, que é uma atividade que não exige combustível fósseis. Isso reduz significativamente a emissão de carbono, especialmente em edifícios com alto consumo de energia.
+
+2. Eficiência energética: Os sistemas fotovoltaicos são eficientes em termos de energia gerada e consumo de energia. Isso permite que os edifícios possam gerar energia de alta qualidade e eficiente, reduzindo a dependência de combustíveis fósseis.
+
+3. Economia de energia: Os sistemas fotovoltaicos podem ser usados para economizar energia nas áreas comuns, como la",GBC Brasil | Guia Completo GBC Zero Energy | página 5 | arquivo: 01_gbc_zero_energy_guia.pdf || GBC Brasil | Guia Completo GBC Zero Energy | página 10 | arquivo: 01_gbc_zero_energy_guia.pdf || GBC Brasil | Guia Completo GBC Zero Energy | página 28 | arquivo: 01_gbc_zero_energy_guia.pdf,,
+4,Quais cuidados devem ser considerados no reúso de águas cinzas em edifícios?,"system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.
+user
+Você é um assistente técnico especializado em edifícios verdes, eficiência energética,
+Net Zero Energy, reúso de água, águas cinzas, certificações ambientais e sistemas fotovoltaicos.
+
+Responda à pergunta usando SOMENTE as informações presentes no contexto fornecido.
+
+Regras obrigatórias:
+1. Não invente informações.
+2. Se a resposta não estiver no contexto, diga: ""Não encontrei informação suficiente no corpus para responder com segurança.""
+3. Cite as fontes no corpo da resposta usando o formato: (Fonte: nome da fonte, página X).
+4. Seja técnico, objetivo e claro.
+5. Organize a resposta em tópicos quando fizer sentido.
+
+CONTEXTO RECUPERADO:
+
+[CHUNK 1]
+Fonte: ADASA
+Arquivo: 09_adasa_reuso_aguas_cinzas.pdf
+Título: Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas
+Página: 55
+Categoria: manual_tecnico
+Subcategoria: agua_reuso
+
+Trecho:
+Padrões de qualidade, critérios de instalação e manutenção 
+6. Reúso de Águas Cinzas 
+O reúso de águas cinzas é um conceito que está relacionado à reutilização de efluentes domésticos 
+com baixo grau de contaminação, como uma alternativa conservacionista para a redução do consumo 
+de água potável em uma edificação. O reúso de água remonta à Idade do Bronze (3200 – 1100 AC) 
+pelo uso de efluentes domésticos em irrigação pelas civilizações Minóica, Mesopotâmica e do Vale 
+do Indo (ANGELAKIS e SNYDER, 2015). Historicamente, a reutilização das águas do banho ou da 
+lavagem de roupas, está diretamente relacionada ao acesso limitado de água, como Londres do Século 
+XVIII (WORSLEY, 2011) ou até mesmo por racionamento, como na segunda guerra mundial (BBC, 
+2004). Foi apenas na década de 80, com questões relacionadas a estresse hídrico e sustentabilidade 
+que o desenvolvimento tecnológico voltado ao reúso de água cinzas em edificações veio à tona no 
+mercado internacional com diferentes alternativas de tratamento do efluente doméstico. 
+6.1. Características das águas cinzas 
+As águas cinzas apresentam características especificas e isso depende da qualidade da água que é 
+fornecida, do tipo da rede de distribuição e das atividades de consumo dos moradores da residência, 
+que variam de acordo com os hábitos de cada indivíduo. A reutilização de águas cinzas sem o 
+tratamento adequado pode ser prejudicial à saúde dos usuários, uma vez que as águas cinzas contém 
+altos índices de fósforo contido em sabões e detergente, cloreto de sódio e fosfatos da urina, sulfatos, 
+carbonatos, ureia, amoníaco e ácido úrico, gorduras, restos de carnes e fibras vegetais, areia, plásticos, 
+cabelos, unhas, mucos e células epiteliais, vermes, vírus, bactérias, leveduras entre outros. A carga 
+orgânica pode favorecer o aumento das colônias de microrganismos decompositores e diminuir o 
+nível de oxigênio dissolvido e está presente em concentrações variáveis, dependendo do local de 
+coleta, seja banheiro, cozinha ou lavanderia. 
+Tabela 12: Características da água distribuída no DF 
+Parâmetros Cor 
+Turbidez 
+Cloro residual Coliformes totais 
+E. coli 
+Índices 
+alcançados 
+< 15 UC 
+< 5 NTU 
+0,2 a 2,0 mg/L 
+Ausência em 95% das 
+amostras 
+Ausência 
+Portaria MS 
+nº 2914/2011 
+15 uH 
+Turbidez ≤ 1,0 uT 
+≤ 0,4 a 3,0 mg/L 
+Ausência em 100 mL 
+em 95% das amostras 
+examinadas no mês. 
+Ausente 
+Fonte: CAESB (2016b); BRASIL (2011a) 
+Para sua caracterização são utilizados parâmetros físico-químicos e biológicos, que indicarão como 
+deve ser realizado o tratamento. O conhecimento dos constituintes químicos determina os limites que 
+devem ser recomendados para o uso não potável. Já os microrganismos patógenos que provocam 
+riscos à saúde humana são mais difíceis de se quantificar. A presença desses poluentes começa a ser 
+quantific
+
+
+
+[CHUNK 2]
+Fonte: ADASA
+Arquivo: 09_adasa_reuso_aguas_cinzas.pdf
+Título: Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas
+Página: 62
+Categoria: manual_tecnico
+Subcategoria: agua_reuso
+
+Trecho:
+Aproveitamento de águas pluviais e reúso de águas cinzas em edificações 
+6.2.4. Análise de risco 
+A prática do tonel & balde é considerado, pelo governo australiano de baixo riso, pois a água cinza 
+acumulada da máquina de lavar roupas apresenta pequenas quantidades de contaminantes, e seu 
+pequeno volume, acumulado apenas por um dia, não representa riso ao meio ambiente pela 
+contaminação do solo ou corpos hídricos (NSW, 2008). 
+O reúso pressurizado de águas cinzas não tratadas podem apresentar um risco à saúde do usuário, 
+como por exemplo, o sistema que faz a extração da água cinza acumulada por meio de uma lavadora 
+de alta pressão conectada a um barril. O contato dos aerossóis gerados pela lavadora de alta pressão 
+nos olhos, boca e nariz do operador pode representar um risco de contaminação. Apesar do sistema 
+apresentar um filtro em malha, o sistema não realiza a desinfecção da água. Uma alternativa, seria a 
+inclusão de um clorador flutuante dentro do barril para a desinfecção da água cinza acumulada. 
+Porém, isso exige, de modo geral, a lavagem do reservatório com hipoclorito de sódio e a troca 
+periódica de pastilhas de cloro no flutuador. 
+O sucesso do perfeito funcionamento dos sistemas de reúso de águas cinzas dependerá da manutenção 
+do sistema. Uma vez instalado, o sistema torna-se responsabilidade do proprietário do imóvel ou 
+condomínio para garantir que ele seja gerenciado em conformidade com as instruções do fabricante. 
+O proprietário também deve garantir que o sistema de águas cinzas seja mantido em bom estado de 
+funcionamento, em todos os momentos. Qualquer defeito deve ser corrigido tão logo torna-se 
+aparente. 
+Alguns sistemas de águas cinzas requerem manutenção regular, por exemplo, a limpeza semanal ou 
+substituindo filtros, retirada de lodo, lavagem de reservatórios com hipoclorito de sódio em solução, 
+desinfecção das tubulações de trechos inoperantes, desvio das águas cinzas dos sistemas de irrigação 
+para o esgoto na estação chuvosa, entre outros. 
+Os poluentes retidos nos sistemas produzem como resíduo o lodo, que possui um volume de massa 
+variável de acordo com a vazão de efluente que foi tratado. A composição do lodo também é variável 
+e pode possuir matéria orgânica, nutrientes, organismos patógenos e, também, metais pesados, 
+produtos químicos orgânicos e ainda substancias toxicas. Cerca de 80% da sua composição é matéria 
+orgânica e depois do tratamento adequado pode ser utilizado como fertilizante para o solo, também 
+por haver a presença de nutrientes como o fosforo e nitrogênio, importantes na nutrição vegetal. Em 
+geral o lodo seco não é considerado perigoso quanto a transmissão de doenças, porem a presença de 
+ovos de helmintos exigirá um manuseio com mais cuidado. A presença de substancias toxicas em 
+quantidades elevadas também não ocorre, uma vez que essas são oriundas de esgotos industriais. 
+Realização da manutenção (por exemplo, limpeza de filtros, retirado do lodo etc) exige do dono da 
+casa assegurar que a pessoa que desenvolvera a atividade tome cuidados básicos como: 
+• Evitar o contato com a á
+
+
+
+[CHUNK 3]
+Fonte: ADASA
+Arquivo: 09_adasa_reuso_aguas_cinzas.pdf
+Título: Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas
+Página: 40
+Categoria: manual_tecnico
+Subcategoria: agua_reuso
+
+Trecho:
+Aproveitamento de águas pluviais e reúso de águas cinzas em edificações 
+redução dos sólidos suspensos e da demanda bioquímica e química do oxigênio, contudo o tratamento 
+pode ser preliminar, primário, secundário ou terciário. Para as classes de uso final considera-se que o 
+tratamento secundário já garante a qualidade pretendida, conforme observado nos níveis de remoção 
+resumidos na Tabela 8. 
+Tabela 8: Remoção de poluentes da água de acordo com o tratamento 
+Nível de tratamento 
+Poluentes removidos 
+Tratamento preliminar 
+Remoção de sólidos grosseiros, gorduras e areia 
+Tratamento primário 
+Remoção de mais de 50% de DBO, SS e Coliformes. Baixa 
+eficiência na remoção de vírus e protozoários, mas eficaz na 
+remoção de bactérias e helmintos. 
+Tratamento secundário 
+Remoção de organismos patógenos, nutrientes (N e P) e 
+sólidos suspensos e dissolvidos em torno de 90%. 
+Tratamento terciário 
+Remoção quase que completa de organismos patogênicos, 
+alta eficiência na remoção de nutrientes. 
+Fonte: Jordão, et al. (2014) 
+A desinfecção é adicionada aos processos de tratamento para remover diversos patógenos como 
+V. cholerae, S. typhi, E. coli, Giardia e ainda alguns vírus. Ela pode ser feita por processo químico 
+ou físico, sendo o mais empregado a adição de cloro, cujo teor residual livre deve estar entre 0,5 e 
+1,5 mg/L. Além deste pode ser utilizado também o peróxido de hidrogênio, ácido pera-cético, bromo, 
+iodo e permanganato de potássio que constituem outros agentes químicos. Os agentes físicos, por sua 
+vez, apresentam ação referenciada na energia de radiação, destacando-se a radiação UV, a radiação 
+gama, radiação solar e, a nível domiciliar, a fervura. 
+O nível de tratamento empregado sempre é definido pelo uso final pretendido e o tipo escolhido 
+influenciará no custo final do processo. Diversas tecnologias, comercialmente disponíveis são 
+lançadas no mercado baseando-se em processos naturais de depuração, empregando conceitos 
+simples com técnicas sofisticadas para um ambiente controlado em que a eficiência é exponenciada. 
+De acordo com a fonte de abastecimento pode ser recomendado a técnica de tratamento que alcançará 
+a qualidade pretendida. A literatura internacional recomenda que fontes alternativas de água devem 
+ser separadas e receber tratamento diferenciado, devido as diferenças na concentração dos poluentes 
+presentes (WHO, 1997). 
+Águas pluviais são comumente utilizadas para fins potáveis em diversos países apenas com o 
+tratamento secundário, uma vez que essa fonte alternativa de água possui contaminantes em 
+concentração muito baixa, o que permite a realização de tratamentos de alta eficiência. No entanto, 
+seus benefícios são limitados, principalmente em relação à qualidade da água potável, pois a água 
+pluvial é geralmente contaminada por poluentes naturais, como o sódio, o nitrô, o cálcio, o magnésio, 
+o ferro, o cobre, o zinco, o magnésio, o ferro, o cobre, o zinco, o magnésio, o ferro, o cobre, o 
+zinco, o magnésio, o ferro, o cobre, o zinco, o magnésio, o ferro, o cobre, o zinco, o magnésio, o 
+ferro, o cobre, o zinco, o magnésio, o ferro, o cobre, o zinco, o magnésio, o ferro, o cobre, o zinco, o 
+magnésio, o ferro, o cobre, o zinco, o magnésio,",ADASA | Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas | página 55 | arquivo: 09_adasa_reuso_aguas_cinzas.pdf || ADASA | Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas | página 62 | arquivo: 09_adasa_reuso_aguas_cinzas.pdf || ADASA | Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas | página 40 | arquivo: 09_adasa_reuso_aguas_cinzas.pdf,,
+5,Quais usos não potáveis podem receber água de reúso em edificações?,"assistant
+Aqui está a resposta técnica baseada nas informações fornecidas:
+
+Usos não potáveis que podem receber água de reúso em edificações são:
+
+1. Lavagem de roupas
+2. Irrigação por aspersão
+3. Chafarizes
+4. Lavagem de pisos com lavadoras de alta pressão
+5. Combate a incêndios
+6. Descarga sanitária
+7. Lavagem de pisos sem uso de lavadoras de alta pressão
+8. Lavagem de veículos
+9. Espelhos d'água
+10. Fontes ornamentais
+11. IRRIGAÇÃO SUPERFICÍLICA com acesso restrito
+12. IRRIGAÇÃO SUBSUPERFÍCICA aberta (100 a 300 mm abaixo do nível do solo)
+13. IRRIGAÇÃO SUBSUPERFÍCICA profunda (>300 mm abaixo do nível do solo)
+
+Estas são as categorias de usos finais não potáveis em edificações que podem receber água de reúso em edificações residenciais.",ADASA | Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas | página 34 | arquivo: 09_adasa_reuso_aguas_cinzas.pdf || ADASA | Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas | página 12 | arquivo: 09_adasa_reuso_aguas_cinzas.pdf || ADASA | Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas | página 23 | arquivo: 09_adasa_reuso_aguas_cinzas.pdf,,
+6,Qual é a importância da desinfecção no tratamento de águas cinzas?,"assistant
+A desinfecção é uma parte crucial do tratamento de águas cinzas, pois ela é responsável pela eliminação de vários tipos de patógenos e bacterias, incluindo E. coli, Giardia e outros vírus. Esta desinfecção é essencial para garantir a qualidade e a eficiência do tratamento, pois pode reduzir a quantidade de poluentes e bacterias que circulam nas águas cinzas. Além disso, a desinfecção ajuda a prevenir a contaminação de água cinza, que pode ser usada em edificações para fins potáveis, como lavagem de pisos e irrigação subsuperficial.",ADASA | Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas | página 40 | arquivo: 09_adasa_reuso_aguas_cinzas.pdf || ADASA | Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas | página 57 | arquivo: 09_adasa_reuso_aguas_cinzas.pdf,,
+7,Como certificações ambientais avaliam a eficiência energética de edifícios?,"assistant
+A certificação ambiental avalia a eficiência energética de edifícios através de um processo complexo que envolve várias etapas. Aqui estão as principais etapas e métodos utilizados:
+
+1. **Análise de Efeitos Ambientais**: O primeiro passo é analisar o impacto ambiental dos edifícios. Isso pode incluir a análise de emissões de gases de efeito estufa, a qualidade do ar, a quantidade de água usada, a quantidade de energia consumida, entre outros.
+
+2. **Análise de Eficiência Energética**: Depois da análise de emissões, o próximo passo é avaliar a eficiência energética dos edifícios. Isso pode ser feito através de testes de eficiência energética, que são realizados em laboratórios de teste. Os testes podem incluir a avaliação de eficiência de processos de produção de energia, a eficiência de sistemas de distribuição de energia, entre outros.
+
+3. **Análise de Impacto Ambiental**: A finalidade é avaliar o impacto ambiental dos edifícios.",GBC Brasil | Guia Completo GBC Zero Energy | página 11 | arquivo: 01_gbc_zero_energy_guia.pdf || GBC Brasil | Certificação LEED | página 1 | arquivo: 03_gbc_leed_certificacao.pdf || GBC Brasil | Guia Prático GBC Brasil Casa | página 3 | arquivo: 05_gbc_brasil_casa_guia.pdf,,
+8,Qual é o papel da manutenção em sistemas de reúso de águas cinzas?,"system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.
+user
+Você é um assistente técnico especializado em edifícios verdes, eficiência energética,
+Net Zero Energy, reúso de água, águas cinzas, certificações ambientais e sistemas fotovoltaicos.
+
+Responda à pergunta usando SOMENTE as informações presentes no contexto fornecido.
+
+Regras obrigatórias:
+1. Não invente informações.
+2. Se a resposta não estiver no contexto, diga: ""Não encontrei informação suficiente no corpus para responder com segurança.""
+3. Cite as fontes no corpo da resposta usando o formato: (Fonte: nome da fonte, página X).
+4. Seja técnico, objetivo e claro.
+5. Organize a resposta em tópicos quando fizer sentido.
+
+CONTEXTO RECUPERADO:
+
+[CHUNK 1]
+Fonte: ADASA
+Arquivo: 09_adasa_reuso_aguas_cinzas.pdf
+Título: Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas
+Página: 61
+Categoria: manual_tecnico
+Subcategoria: agua_reuso
+
+Trecho:
+Padrões de qualidade, critérios de instalação e manutenção 
+Em geral, sistemas integrados realizam o recalque da água tratada para um reservatório de distribuição 
+localizado na cobertura da edificação. Por gravidade, pontos de uso interno e externo são alimentados 
+para uso não potável em descarga sanitária, torneiras de uso geral, torneiras de jardim, entre outros. 
+Alternativamente, a distribuição da água não potável pode ser mista. Para isso, uma bomba 
+pressurizadora é utilizada para o abastecimento direto em pontos de usos externos, e para o 
+abastecimento indireto por meio de recalque ao reservatório de distribuição. 
+6.2.3. Manutenção 
+Os sistemas de tratamento de águas cinzas são projetados para terem o mínimo de intervenção, de um 
+modo geral apenas a desinfecção é que exige que seja checado, sobretudo quando se trata do processo 
+químico. Fora isso, apenas os filtros necessitam de limpeza em periódica entre 3 a 12 meses, 
+dependendo do tipo de filtro. A recomendação sempre é observar o prazo do fabricante. 
+Tabela 14: Frequência de manutenção de sistemas de reúso de águas cinzas 
+Componentes do sistema 
+Frequência de manutenção 
+Limpeza manual dos filtros 
+Depende do tipo de filtro, podendo 
+ser semanal ou mensal 
+Retrolavagem 
+Checagem anual e limpeza 
+Desinfecção química 
+Trimestral ou anual, dependendo do 
+tipo de sistema 
+Bombas 
+Anual 
+Fonte: Leggett et al. (2001) 
+De um modo geral, a maioria dos sistemas não exigem manutenção manual com frequência, porem 
+aqueles que precisam devem oferecer aos usuários um manual de funcionamento que deve incluir: 
+• Procedimentos de isolamento de emergência; 
+• Procedimentos de ligar e desligar o sistema; 
+• O que fazer em caso de acidentes; 
+• O que fazer em caso de alterar a composição das águas cinzas pelo uso de produtos 
+químicos não cotidianos; 
+• Como interpretar os indicadores de alarmes; 
+• Quando e como resolver manutenção e tarefas de rotinas; 
+• Onde obter os componentes consumíveis; 
+• SAC - Serviço de atendimento ao consumidor ativo. 
+Os usuários que instalarem um sistema desses em suas casas devem estar cientes de que alterações 
+foram feitas nas instalações hidráulicas e de como o sistema funciona. Para isso é necessário que a 
+empresa forneça um treinamento prévio aos moradores ou disponibilize um técnico próprio que fique 
+disponível e se responsabilize pela manutenção. Mesmo em caso de treinamento dos próprios 
+moradores ou pessoa indicada pela família para operar o sistema, a empresa deve oferecer um serviço 
+de checagem anual para averiguar a eficiência do sistema, sobretudo para verificar se as atividades 
+biológicas envolvidas no sistema não promoveram uma proliferação de micróbios além do esperado.
+
+
+
+[CHUNK 2]
+Fonte: ADASA
+Arquivo: 09_adasa_reuso_aguas_cinzas.pdf
+Título: Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas
+Página: 55
+Categoria: manual_tecnico
+Subcategoria: agua_reuso
+
+Trecho:
+Padrões de qualidade, critérios de instalação e manutenção 
+6. Reúso de Águas Cinzas 
+O reúso de águas cinzas é um conceito que está relacionado à reutilização de efluentes domésticos 
+com baixo grau de contaminação, como uma alternativa conservacionista para a redução do consumo 
+de água potável em uma edificação. O reúso de água remonta à Idade do Bronze (3200 – 1100 AC) 
+pelo uso de efluentes domésticos em irrigação pelas civilizações Minóica, Mesopotâmica e do Vale 
+do Indo (ANGELAKIS e SNYDER, 2015). Historicamente, a reutilização das águas do banho ou da 
+lavagem de roupas, está diretamente relacionada ao acesso limitado de água, como Londres do Século 
+XVIII (WORSLEY, 2011) ou até mesmo por racionamento, como na segunda guerra mundial (BBC, 
+2004). Foi apenas na década de 80, com questões relacionadas a estresse hídrico e sustentabilidade 
+que o desenvolvimento tecnológico voltado ao reúso de água cinzas em edificações veio à tona no 
+mercado internacional com diferentes alternativas de tratamento do efluente doméstico. 
+6.1. Características das águas cinzas 
+As águas cinzas apresentam características especificas e isso depende da qualidade da água que é 
+fornecida, do tipo da rede de distribuição e das atividades de consumo dos moradores da residência, 
+que variam de acordo com os hábitos de cada indivíduo. A reutilização de águas cinzas sem o 
+tratamento adequado pode ser prejudicial à saúde dos usuários, uma vez que as águas cinzas contém 
+altos índices de fósforo contido em sabões e detergente, cloreto de sódio e fosfatos da urina, sulfatos, 
+carbonatos, ureia, amoníaco e ácido úrico, gorduras, restos de carnes e fibras vegetais, areia, plásticos, 
+cabelos, unhas, mucos e células epiteliais, vermes, vírus, bactérias, leveduras entre outros. A carga 
+orgânica pode favorecer o aumento das colônias de microrganismos decompositores e diminuir o 
+nível de oxigênio dissolvido e está presente em concentrações variáveis, dependendo do local de 
+coleta, seja banheiro, cozinha ou lavanderia. 
+Tabela 12: Características da água distribuída no DF 
+Parâmetros Cor 
+Turbidez 
+Cloro residual Coliformes totais 
+E. coli 
+Índices 
+alcançados 
+< 15 UC 
+< 5 NTU 
+0,2 a 2,0 mg/L 
+Ausência em 95% das 
+amostras 
+Ausência 
+Portaria MS 
+nº 2914/2011 
+15 uH 
+Turbidez ≤ 1,0 uT 
+≤ 0,4 a 3,0 mg/L 
+Ausência em 100 mL 
+em 95% das amostras 
+examinadas no mês. 
+Ausente 
+Fonte: CAESB (2016b); BRASIL (2011a) 
+Para sua caracterização são utilizados parâmetros físico-químicos e biológicos, que indicarão como 
+deve ser realizado o tratamento. O conhecimento dos constituintes químicos determina os limites que 
+devem ser recomendados para o uso não potável. Já os microrganismos patógenos que provocam 
+riscos à saúde humana são mais difíceis de se quantificar. A presença desses poluentes começa a ser 
+quantific
+
+
+
+[CHUNK 3]
+Fonte: ADASA
+Arquivo: 09_adasa_reuso_aguas_cinzas.pdf
+Título: Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas
+Página: 40
+Categoria: manual_tecnico
+Subcategoria: agua_reuso
+
+Trecho:
+Aproveitamento de águas pluviais e reúso de águas cinzas em edificações 
+redução dos sólidos suspensos e da demanda bioquímica e química do oxigênio, contudo o tratamento 
+pode ser preliminar, primário, secundário ou terciário. Para as classes de uso final considera-se que o 
+tratamento secundário já garante a qualidade pretendida, conforme observado nos níveis de remoção 
+resumidos na Tabela 8. 
+Tabela 8: Remoção de poluentes da água de acordo com o tratamento 
+Nível de tratamento 
+Poluentes removidos 
+Tratamento preliminar 
+Remoção de sólidos grosseiros, gorduras e areia 
+Tratamento primário 
+Remoção de mais de 50% de DBO, SS e Coliformes. Baixa 
+eficiência na remoção de vírus e protozoários, mas eficaz na 
+remoção de bactérias e helmintos. 
+Tratamento secundário 
+Remoção de organismos patógenos, nutrientes (N e P) e 
+sólidos suspensos e dissolvidos em torno de 90%. 
+Tratamento terciário 
+Remoção quase que completa de organismos patogênicos, 
+alta eficiência na remoção de nutrientes. 
+Fonte: Jordão, et al. (2014) 
+A desinfecção é adicionada aos processos de tratamento para remover diversos patógenos como 
+V. cholerae, S. typhi, E. coli, Giardia e ainda alguns vírus. Ela pode ser feita por processo químico 
+ou físico, sendo o mais empregado a adição de cloro, cujo teor residual livre deve estar entre 0,5 e 
+1,5 mg/L. Além deste pode ser utilizado também o peróxido de hidrogênio, ácido pera-cético, bromo, 
+iodo e permanganato de potássio que constituem outros agentes químicos. Os agentes físicos, por sua 
+vez, apresentam ação referenciada na energia de radiação, destacando-se a radiação UV, a radiação 
+gama, radiação solar e, a nível domiciliar, a fervura. 
+O nível de tratamento empregado sempre é definido pelo uso final pretendido e o tipo escolhido 
+influenciará no custo final do processo. Diversas tecnologias, comercialmente disponíveis são 
+lançadas no mercado baseando-se em processos naturais de depuração, empregando conceitos 
+simples com técnicas sofisticadas para um ambiente controlado em que a eficiência é exponenciada. 
+De acordo com a fonte de abastecimento pode ser recomendado a técnica de tratamento que alcançará 
+a qualidade pretendida. A literatura internacional recomenda que fontes alternativas de água devem 
+ser separadas e receber tratamento diferenciado, devido as diferenças na concentração dos poluentes 
+presentes (WHO, 1997). 
+Águas pluviais são comumente utilizadas para fins potáveis em diversos países apenas com o 
+tratamento secundário, uma vez que essa fonte alternativa de água possui contaminantes em 
+concentrações menores, possibilitando uma maior qualidade a partir de um tratamento mais simples. 
+Ao se considerar reúso não potável o tratamento primário onde se remove sólidos suspensos e 
+dissolvidos seguidos de desinfecção por cloração com tempo mínimo de contato de 15 minutos já 
+alcança a categoria de reúso mais exigente. 
+Quando se considera sistemas de tratamento de águas cinzas vários fatores devem ser considerados. 
+O uso de águas cinzas tratadas sem desinfec
+
+
+PERGUNTA: Como é o tratamento de águas cinzas?",ADASA | Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas | página 61 | arquivo: 09_adasa_reuso_aguas_cinzas.pdf || ADASA | Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas | página 55 | arquivo: 09_adasa_reuso_aguas_cinzas.pdf || ADASA | Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas | página 40 | arquivo: 09_adasa_reuso_aguas_cinzas.pdf,,
+9,Como o aproveitamento de águas pluviais pode contribuir para edifícios sustentáveis?,"assistant
+O aproveitamento de águas pluviais pode contribuir significativamente para edifícios sustentáveis através de várias estratégias e benefícios:
+
+1. **Redução de Gastos de Abastecimento**: Os sistemas de aproveitamento de águas pluviais e reúso de águas cinzas podem reduzir o gasto de abastecimento de água público, especialmente em áreas com baixas disponibilidades hídricas.
+
+2. **Promoção de Economia de Água**: Os sistemas podem gerar economias significativas em termos de consumo predial, pois permitem a distribuição direta de água em usos não potáveis internos e externos.
+
+3. **Sustentabilidade das Edifícios**: Os sistemas podem garantir uma abastecimento contínuo nas atividades consumidoras de água, como lavar roupa, jardim e jantar, contribuindo para a sustentabilidade e a qualidade da água.
+
+4. **Prevenção de Desastres Hídricos**: Os sistemas podem reduzir o impacto causado por cortes no abast",ADASA | Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas | página 18 | arquivo: 09_adasa_reuso_aguas_cinzas.pdf || ADASA | Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas | página 13 | arquivo: 09_adasa_reuso_aguas_cinzas.pdf || ADASA | Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas | página 52 | arquivo: 09_adasa_reuso_aguas_cinzas.pdf,,
+10,Quais informações técnicas são importantes para avaliar a sustentabilidade de um edifício?,"assistant
+A sustentabilidade de um edifício é avaliada por várias informações técnicas, incluindo:
+
+1. **Certificação GBC Brasil Casa®**: Este é um programa de certificação internacional que incentiva a construção sustentável. Ele oferece ferramentas e critérios para avaliar a sustentabilidade de edifícios.
+
+2. **Informações sobre a construção**: O edifício deve ter uma estrutura segura, adequada e eficiente. É importante que a construção seja projetada de forma sustentável, considerando a qualidade do ambiente interno e a eficiência energética.
+
+3. **Especificações de água**: O edifício deve ter um sistema de limpeza e reciclagem de água, bem como um sistema de tratamento de água potável eficiente.
+
+4. **Especificações de energia**: O edifício deve ter um sistema de energia eficiente, como sistemas de iluminação e de aquecimento, e deve ser capaz de gerar energia solar ou hidrelétrica.
+
+5. **Especificações de materiais**: O edifício deve ter materiais de alta qualidade e ef",IEA | Energy Efficiency Policy Toolkit 2025 - Buildings | página 2 | arquivo: 08_iea_policy_toolkit_building.pdf || IEA | Energy Efficiency Policy Toolkit 2025 - Buildings | página 3 | arquivo: 08_iea_policy_toolkit_building.pdf || GBC Brasil | Guia Prático GBC Brasil Casa | página 3 | arquivo: 05_gbc_brasil_casa_guia.pdf,,

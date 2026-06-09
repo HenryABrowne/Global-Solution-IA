@@ -1,0 +1,11 @@
+﻿arquivo,titulo,fonte,categoria,subcategoria,ano,vigencia,tipo_documento,tema_principal
+01_gbc_zero_energy_guia.pdf,Guia Completo GBC Zero Energy,GBC Brasil,certificacao,energia_net_zero,2019,vigente,guia técnico,certificação zero energy e balanço energético
+02_gbc_zero_energy_pagina.pdf,Página da Certificação GBC Zero Energy,GBC Brasil,certificacao,energia_net_zero,2025,vigente,página técnica salva em PDF,"etapas, documentos e requisitos gerais da certificação GBC Zero Energy"
+03_gbc_leed_certificacao.pdf,Certificação LEED,GBC Brasil,certificacao,edificios_verdes,2025,vigente,página técnica salva em PDF,certificação LEED e critérios de edifícios sustentáveis
+04_usgbc_leed_credit_library.pdf,LEED Credit Library,USGBC,certificacao,creditos_leed,2025,vigente,biblioteca de créditos,"créditos LEED para energia, água e sustentabilidade"
+05_gbc_brasil_casa_guia.pdf,Guia Prático GBC Brasil Casa,GBC Brasil,certificacao,residencial_sustentavel,2019,vigente,guia técnico,boas práticas para residências sustentáveis
+06_procel_eficiencia_edificios_publicos.pdf,Guia de Eficiência Energética em Edifícios Públicos,PROCEL / Ministério de Minas e Energia,relatorio_tecnico,eficiencia_energetica,2025,vigente,guia técnico,eficiência energética em edificações públicas
+07_iea_energy_efficiency_buildings.pdf,Energy Efficiency 2025 - Buildings,IEA,relatorio_tecnico,energia_edificios,2025,vigente,relatório técnico,eficiência energética em edifícios
+08_iea_policy_toolkit_building.pdf,Energy Efficiency Policy Toolkit 2025 - Buildings,IEA,relatorio_tecnico,politicas_energeticas,2025,vigente,relatório técnico,políticas de eficiência energética para edifícios
+09_adasa_reuso_aguas_cinzas.pdf,Aproveitamento de Águas Pluviais e Reúso de Águas Cinzas,ADASA,manual_tecnico,agua_reuso,2025,vigente,manual técnico,reúso de águas cinzas e aproveitamento de águas pluviais
+10_ipt_manual_aguas_cinzas.pdf,Manual de Águas Cinzas,IPT,manual_tecnico,agua_reuso,2025,vigente,manual técnico,"tratamento, qualidade e uso de águas cinzas"

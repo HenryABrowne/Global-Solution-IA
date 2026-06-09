@@ -1,0 +1,2 @@
+﻿modelo_embedding,banco_vetorial,caminho_banco,nome_colecao,total_chunks_indexados,dimensao_embeddings
+BAAI/bge-m3,ChromaDB,/content/drive/MyDrive/GS_RAG_Edificios_Verdes/05_banco_vetorial,edificios_verdes_netzero,413,1024
